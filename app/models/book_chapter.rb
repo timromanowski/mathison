@@ -1,0 +1,2 @@
+class BookChapter < Content
+end

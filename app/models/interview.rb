@@ -1,0 +1,2 @@
+class Interview < Content
+end
